@@ -1,8 +1,9 @@
-<h1>Felipe Miranda</h1>  <img src="bandeiras.png" alt="Bandeira da Bahia" align="right"> 
+<h1>Felipe Miranda<img src="bandeiras.png" alt="Bandeira da Bahia" align="right"></h1> 
 
-🎓 Análise e Desenolvimento de Sistemas - Unicesumar<br>
-💼 Assistente de Atendimento e Negócios - Banco do Brasil
-<p align="center">⚠️ Em transição de carreira ⚠️</p>
+<img src="octocat-1754341314873.png" alt="octocat do Felipe" align="right" height="240px">
+<p>🎓 Análise e Desenolvimento de Sistemas - Unicesumar</p><br>
+<p>💼 Assistente de Atendimento e Negócios - Banco do Brasil</p><br>
+<p>⚠️ Em transição de carreira ⚠️</p><br>
 
 
 <h2>Tecnologias e Ferramentas</h2>
@@ -30,3 +31,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemirandabr&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemirandabr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+          
+![Snake animation](https://github.com/seu-usuário-aqui/felipemirandabr/blob/output/github-contribution-grid-snake.svg)
